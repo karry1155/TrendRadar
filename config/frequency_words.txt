@@ -5,49 +5,28 @@
 南京
 大学生
 
+电影院
 院线
-电影
 
-独立开发
 一人公司
 超级个体
-副业
-微创业
-变现
-商业模式
-营销
 
-ComfyUI
-Stable Diffusion
-Midjourney
-Sora
-AI视频
-AI绘图
-AI Agent
 智能体
-RPA
 工作流
 
 GitHub
 开源
-Linux
-网络安全
-VS Code
-编程入门
-C语言
 
-深度思考
 行业分析
 趋势报告
-生产力工具
-效率提升
 
 chatgpt
 openai
 sora
+@3
 
 谷歌
 google
 gemini
 deepmind
-
+@3
